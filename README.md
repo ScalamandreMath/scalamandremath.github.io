@@ -1,2 +1,0 @@
-# scalamandremath.github.io
-Website
